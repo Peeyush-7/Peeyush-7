@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hands.svg" width="230" alt="hands">
+<img src="assests/hands.svg" width="230" alt="hands">
 
 # Peeyush.exe
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./assets/rabbits.svg" width="100%" alt="rabbits">
+<img src="assests/rabbits.svg" width="100%" alt="rabbits">
 
 <br>
 
@@ -29,7 +29,7 @@ I'm currently sharpening my skills in **SQL, machine learning, model evaluation,
 
 <div align="center">
 
-<img src="./assets/kyubey.svg" width="130" alt="Kyubey">
+<img src="assets/kyubey.svg" width="130" alt="kyubey">
 
 </div>
 
@@ -41,9 +41,9 @@ I'm currently sharpening my skills in **SQL, machine learning, model evaluation,
 
 ### Languages
 
-<img src="./assets/js-html.svg" width="115" alt="JavaScript and HTML">
-<img src="./assets/react.svg" width="115" alt="React">
-<img src="./assets/react-alt.svg" width="115" alt="React">
+<img src="assets/js-html.svg" width="115" alt="JavaScript and HTML">
+<img src="assets/react.svg" width="115" alt="React">
+<img src="assets/react-alt.svg" width="115" alt="React">
 
 <br>
 
@@ -147,7 +147,7 @@ A lightweight blogging interface for technical students and programmers, built w
 
 <div align="center">
 
-<img src="./assets/coding.svg" width="170" alt="coding">
+<img src="assets/coding.svg" width="170" alt="coding">
 
 ## ✦ CURRENTLY IN THE WORKSHOP
 
