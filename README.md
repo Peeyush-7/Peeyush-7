@@ -27,15 +27,24 @@
 
 ## ✦ THE PROLOGUE
 
+<div>
+<img src="assests/kyubey.svg" width="180" alt="kyubey" align="left">
+
 I'm a Computer Science student who likes to **build first and figure things out along the way**.
+
+<br>
 
 Most of my work lives somewhere around **Python, Machine Learning, Data Analytics, AI and developer tools**. I enjoy taking an idea that exists only as a rough sketch and slowly turning it into something that moves, responds and actually works.
 
+<br>
+
 I'm currently sharpening my skills in **SQL, machine learning, model evaluation, backend development and open source** — one project, bug and unnecessarily complicated README at a time.
 
-<div align="center">
+</div>
 
-<img src="assests/kyubey.svg" width="130" alt="kyubey">
+<br clear="left">
+
+---
 
 </div>
 
