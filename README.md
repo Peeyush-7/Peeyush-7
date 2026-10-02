@@ -1,19 +1,25 @@
 <div align="center">
 
-<img src="assests/hands.svg" width="230" alt="hands">
+<h1>
+<img src="assests/hands.svg" width="110" alt="hands" valign="middle">
+&nbsp; Peeyush.exe
+</h1>
 
-# Peeyush.exe
+<br>
+
+<p align="left">
+<img src="assests/rabbits.svg" width="260" alt="rabbits" align="left">
 
 ### a CSE student wandering between data, machines & strange little ideas
 
 <br>
 
-<img src="assests/rabbits.svg" width="100%" alt="rabbits">
-
-<br>
-
 > **I like software that feels less like a spreadsheet  
 > and more like a little world.**
+
+</p>
+
+<br clear="left">
 
 </div>
 
@@ -29,7 +35,7 @@ I'm currently sharpening my skills in **SQL, machine learning, model evaluation,
 
 <div align="center">
 
-<img src="assets/kyubey.svg" width="130" alt="kyubey">
+<img src="assests/kyubey.svg" width="130" alt="kyubey">
 
 </div>
 
@@ -39,15 +45,23 @@ I'm currently sharpening my skills in **SQL, machine learning, model evaluation,
 
 <div align="center">
 
+### Tools
+
+<img src="assests/coding-1.svg" width="115" alt="vscode">
+<img src="assests/coding-4.svg" width="115" alt="git">
+<img src="assests/coding-3.svg" width="115" alt="github">
+
+
 ### Languages
 
-<img src="assets/js-html.svg" width="115" alt="JavaScript and HTML">
-<img src="assets/react.svg" width="115" alt="React">
-<img src="assets/react-alt.svg" width="115" alt="React">
+<img src="assests/js-html.svg" width="115" alt="JavaScript and HTML">
+<img src="assests/react.svg" width="115" alt="React">
+<img src="assests/react-alt.svg" width="115" alt="React">
 
 <br>
 
-`Python` · `C` · `C++` · `SQL` · `HTML` · `CSS` · `JavaScript`
+<img src="assests/coding-2.svg" width="115" alt="React"> .
+`C` · `C++` · `SQL` · `HTML` · `CSS` · `JavaScript`
 
 ### Data / Machine Learning
 
@@ -79,7 +93,7 @@ A hand-tracking interface that turns gestures into mouse operations.
 
 `Python` · `OpenCV` · `MediaPipe` · `PyAutoGUI` · `Pynput`
 
-<a href="https://github.com/peeyushkumarblw-prog/Virtual-Mouse">
+<a href="https://github.com/Peeyush-7/Virtual-Mouse">
 → enter the repository
 </a>
 
@@ -147,7 +161,7 @@ A lightweight blogging interface for technical students and programmers, built w
 
 <div align="center">
 
-<img src="assets/coding.svg" width="170" alt="coding">
+<img src="assests/coding.svg" width="170" alt="coding">
 
 ## ✦ CURRENTLY IN THE WORKSHOP
 
