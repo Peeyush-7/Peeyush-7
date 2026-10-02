@@ -29,7 +29,7 @@
 
 <div>
 
-<img src="assests/kyubey.svg" width="180" alt="kyubey" align="left" hspace="45">
+<img src="assests/kyubey.svg" width="200" alt="kyubey" align="left" hspace="45">
 
 I'm a Computer Science student who likes to **build first and figure things out along the way**.
 
