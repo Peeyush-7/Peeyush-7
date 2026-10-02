@@ -2,7 +2,7 @@
 
 <img src="./assets/hands.svg" width="230" alt="hands">
 
-# PEeyush.exe
+# Peeyush.exe
 
 ### a CSE student wandering between data, machines & strange little ideas
 
@@ -25,10 +25,12 @@ I'm a Computer Science student who likes to **build first and figure things out 
 
 Most of my work lives somewhere around **Python, Machine Learning, Data Analytics, AI and developer tools**. I enjoy taking an idea that exists only as a rough sketch and slowly turning it into something that moves, responds and actually works.
 
-I’m currently sharpening my skills in **SQL, machine learning, model evaluation, backend development and open source** — one project, bug and unnecessarily complicated README at a time.
+I'm currently sharpening my skills in **SQL, machine learning, model evaluation, backend development and open source** — one project, bug and unnecessarily complicated README at a time.
 
 <div align="center">
+
 <img src="./assets/kyubey.svg" width="130" alt="Kyubey">
+
 </div>
 
 ---
@@ -77,7 +79,9 @@ A hand-tracking interface that turns gestures into mouse operations.
 
 `Python` · `OpenCV` · `MediaPipe` · `PyAutoGUI` · `Pynput`
 
-<a href="https://github.com/peeyushkumarblw-prog/Virtual-Mouse">→ enter the repository</a>
+<a href="https://github.com/peeyushkumarblw-prog/Virtual-Mouse">
+→ enter the repository
+</a>
 
 </td>
 
@@ -152,7 +156,7 @@ A lightweight blogging interface for technical students and programmers, built w
 ```text
         ┌─────────────────────────────────────────┐
         │                                         │
-        │   Python          ██████████████████    │
+        │   Python           ██████████████████   │
         │   Machine Learning ███████████████░     │
         │   Data Analytics   ██████████████░░     │
         │   SQL              ████████████░░░░     │
@@ -160,100 +164,3 @@ A lightweight blogging interface for technical students and programmers, built w
         │   Open Source      █████████░░░░░░░     │
         │                                         │
         └─────────────────────────────────────────┘
-```
-
-### Things I'm exploring
-
-- **Machine Learning** — better models, evaluation and real-world workflows
-- **Data Science** — turning messy information into useful stories
-- **AI / NLP** — understanding text beyond keywords
-- **Computer Vision** — making software see and react
-- **Backend Development** — putting models and ideas behind actual applications
-- **Open Source** — learning by reading, contributing and shipping
-
----
-
-## 🗺️ THE NEXT SCENE
-
-I want to build things that sit at the intersection of **AI + data + useful interfaces**.
-
-Not just models that produce a number.
-
-Not just websites that look good.
-
-Something in between — **systems that people can actually interact with.**
-
-<div align="center">
-<img src="./assets/loading.svg" width="80" alt="loading">
-</div>
-
----
-
-## 🧰 MY LITTLE WORKBENCH
-
-<div align="center">
-
-<img src="./assets/vscode.svg" width="115" alt="VS Code">
-<img src="./assets/git.svg" width="115" alt="Git">
-<img src="./assets/github.svg" width="115" alt="GitHub">
-
-<br><br>
-
-`VS Code` · `Git` · `GitHub` · `Jupyter` · `Kaggle`
-
-</div>
-
----
-
-## 📜 A FEW RULES OF THE ROAD
-
-<div align="center">
-
-**Build something.**
-
-**Break something.**
-
-**Understand why it broke.**
-
-**Build it again.**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="./assets/bw-loop.svg" width="190" alt="black and white loop">
-
-<br>
-
-### *The code is never quite finished.*
-
-</div>
-
----
-
-## 📊 THE NUMBERS, SOMEWHERE IN THE DISTANCE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=peeyushkumarblw-prog&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeyushkumarblw-prog&layout=compact&hide_border=true" height="165" alt="Top languages">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/rabbits.svg" width="250" alt="rabbits">
-
-### Thanks for wandering into my little corner of GitHub.
-
-**If an idea is interesting enough, I'll probably try to build it.**
-
-<br>
-
-`Python` · `AI` · `ML` · `Data` · `Open Source`
-
-</div>
