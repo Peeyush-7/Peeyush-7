@@ -2,13 +2,13 @@
 
 <h1>
 <img src="assests/hands.svg" width="110" alt="hands" valign="middle">
-&nbsp; Peeyush.exe
+&nbsp; Peeyush — There and Back Again: A Developer's Tale
 </h1>
 
 <br>
 
 <p align="left">
-<img src="assests/rabbits.svg" width="260" alt="rabbits" align="left">
+<img src="assests/rabbits.svg" width="220" alt="rabbits" align="left" hspace="20">
 
 ### a CSE student wandering between data, machines & strange little ideas
 
@@ -21,14 +21,15 @@
 
 <br clear="left">
 
-</div>
-
 ---
+
+</div>
 
 ## ✦ THE PROLOGUE
 
 <div>
-<img src="assests/kyubey.svg" width="180" alt="kyubey" align="left">
+
+<img src="assests/kyubey.svg" width="180" alt="kyubey" align="left" hspace="45">
 
 I'm a Computer Science student who likes to **build first and figure things out along the way**.
 
@@ -40,15 +41,12 @@ Most of my work lives somewhere around **Python, Machine Learning, Data Analytic
 
 I'm currently sharpening my skills in **SQL, machine learning, model evaluation, backend development and open source** — one project, bug and unnecessarily complicated README at a time.
 
-</div>
-
 <br clear="left">
 
 ---
 
 </div>
 
----
 
 ## ⚔️ THE TOOLKIT
 
@@ -84,11 +82,14 @@ I'm currently sharpening my skills in **SQL, machine learning, model evaluation,
 
 `Flask` · `HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
-</div>
-
 ---
 
-## 🎬 THE THINGS I'VE BEEN BUILDING
+</div>
+
+<h2 align="left">
+<img src="assests/pi-slice.svg" width="70" alt="Pi" valign="middle">
+&nbsp;&nbsp;THE THINGS I'VE BEEN BUILDING
+</h2>
 
 <table>
 <tr>
@@ -168,11 +169,12 @@ A lightweight blogging interface for technical students and programmers, built w
 
 ---
 
-<div align="center">
+<div align="left">
 
-<img src="assests/coding.svg" width="170" alt="coding">
-
-## ✦ CURRENTLY IN THE WORKSHOP
+<h2>
+<img src="assests/loading.svg" width="80" alt="loading" valign="middle">
+&nbsp;&nbsp;✦ CURRENTLY IN THE WORKSHOP
+</h2>
 
 </div>
 
