@@ -1,20 +1,21 @@
 <div align="center">
 
 <h1>
-<img src="assests/hands.svg" width="12%" alt="hands" valign="middle">
+<img src="assests/hands.svg" width="110" alt="hands" valign="middle">
 &nbsp; Peeyush — There and Back Again: A Developer's Tale
 </h1>
 
 <br>
 
 <p align="left">
-<img src="assests/rabbits.svg" width="24%" alt="rabbits" align="left">
+<img src="assests/rabbits.svg" width="220" alt="rabbits" align="left" hspace="20">
 
-<strong>a CSE student wandering between data, machines & strange little ideas</strong>
+### a CSE student wandering between data, machines & strange little ideas
 
-<br><br>
+<br>
 
-<em>I like software that feels less like a spreadsheet and more like a little world.</em>
+> **I like software that feels less like a spreadsheet  
+> and more like a little world.**
 
 </p>
 
@@ -28,11 +29,7 @@
 
 <div>
 
-<div align="center">
-
-<img src="assests/kyubey.svg" width="24%" alt="kyubey">
-
-</div>
+<img src="assests/kyubey.svg" width="200" alt="kyubey" align="left" hspace="45">
 
 I'm a Computer Science student who likes to **build first and figure things out along the way**.
 
@@ -57,20 +54,20 @@ I'm currently sharpening my skills in **SQL, machine learning, model evaluation,
 
 ### Tools
 
-<img src="assests/coding-1.svg" width="10%" alt="vscode">
-<img src="assests/coding-4.svg" width="10%" alt="git">
-<img src="assests/coding-3.svg" width="10%" alt="github">
+<img src="assests/coding-1.svg" width="115" alt="vscode">
+<img src="assests/coding-4.svg" width="115" alt="git">
+<img src="assests/coding-3.svg" width="115" alt="github">
 
 
 ### Languages
 
-<img src="assests/js-html.svg" width="10%" alt="JavaScript and HTML">
-<img src="assests/react.svg" width="10%" alt="React">
-<img src="assests/react-alt.svg" width="10%" alt="React">
+<img src="assests/js-html.svg" width="115" alt="JavaScript and HTML">
+<img src="assests/react.svg" width="115" alt="React">
+<img src="assests/react-alt.svg" width="115" alt="React">
 
 <br>
 
-<img src="assests/coding-2.svg" width="10%" alt="React"> .
+<img src="assests/coding-2.svg" width="115" alt="React"> .
 `C` · `C++` · `SQL` · `HTML` · `CSS` · `JavaScript`
 
 ### Data / Machine Learning
@@ -175,7 +172,7 @@ A lightweight blogging interface for technical students and programmers, built w
 <div align="left">
 
 <h2>
-<img src="assests/loading.svg" width="70" alt="loading" valign="middle">
+<img src="assests/loading.svg" width="80" alt="loading" valign="middle">
 &nbsp;&nbsp;✦ CURRENTLY IN THE WORKSHOP
 </h2>
 
